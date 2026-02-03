@@ -41,7 +41,9 @@ The dataset used in this project is sourced from the **Food.com Recipes and Revi
 ## 📂 Project Structure
 
 -   `streamlit_app.py`: The main application file.
--   `Diet.ipynb`: Jupyter Notebook containing data analysis and model training steps.
+-   `Model_building.ipynb`: Notebook for building and training the Machine Learning models.
+-   `Preprocessing1.ipynb`: Notebook for initial data preprocessing and cleaning.
+-   `ProjectAdvanced.ipynb`: Advanced project analysis and experimentation.
 -   `kmeans_model_diet.pkl`: Pre-trained K-Means model.
 -   `scaler_diet.pkl`: Pre-trained scaler for nutrient normalization.
 -   `recipes_clusters_diet.csv`: The processed dataset used by the app.
